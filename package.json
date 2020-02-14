@@ -25,10 +25,12 @@
     "zone.js": "~0.10.2"
   },
   "devDependencies": {
+    "@angular-builders/custom-webpack": "^8.4.1",
     "@angular-devkit/build-angular": "~0.900.2",
     "@angular/cli": "~9.0.2",
     "@angular/compiler-cli": "~9.0.1",
     "@angular/language-service": "~9.0.1",
+    "@fullhuman/postcss-purgecss": "^2.0.6",
     "@testing-library/angular": "^8.2.0",
     "@testing-library/cypress": "^5.3.0",
     "@testing-library/jest-dom": "^5.1.1",
@@ -39,7 +41,11 @@
     "cypress": "^4.0.1",
     "jest": "25.1.0",
     "jest-preset-angular": "8.0.0",
+    "postcss-import": "^12.0.1",
+    "postcss-loader": "^3.0.0",
+    "postcss-scss": "^2.0.0",
     "prettier": "^1.19.1",
+    "tailwindcss": "^1.2.0",
     "ts-node": "~8.3.0",
     "tslint": "~5.18.0",
     "typescript": "~3.7.5"
