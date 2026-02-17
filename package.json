@@ -6,7 +6,7 @@
     "start": "ng serve",
     "build": "ng build",
     "test": "ng test",
-    "prettier:check": "prettier .",
+    "prettier:check": "prettier --check .",
     "prettier:fix": "prettier --write .",
     "lint": "ng lint",
     "knip": "knip"
