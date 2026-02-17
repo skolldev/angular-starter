@@ -1,0 +1,6 @@
+{
+  "$schema": "https://unpkg.com/knip@5/schema.json",
+  "ignore": ["public/mockServiceWorker.js", "src/styles.css"],
+  "ignoreDependencies": ["@angular/forms"],
+  "tags": ["-lintignore"]
+}
