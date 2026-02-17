@@ -8,14 +8,13 @@ A minimal, modern Angular starter template with opinionated tooling choices.
 
 **Core:** Angular 21
 
-**Styling:** Tailwind 
+**Styling:** Tailwind
 
 **Testing:** Vitest + Testing Library + MSW (Mock Service Worker) for API mocking
 
 **Linting & Formatting:** ESLint with rules for Angular and TypeScript, Prettier, Knip (unused dependency detection)
 
 **CI/CD:** GitHub Actions (lint, format check, build, test), Dependabot
-
 
 ## Scripts
 
