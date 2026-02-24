@@ -36,7 +36,7 @@
     "@testing-library/user-event": "14.6.1",
     "@types/node": "25.2.3",
     "angular-eslint": "21.2.0",
-    "eslint": "9.39.2",
+    "eslint": "9.39.3",
     "eslint-config-prettier": "10.1.8",
     "jsdom": "27.4.0",
     "knip": "5.83.1",
